@@ -15,6 +15,11 @@ using System.Windows.Shapes;
 
 namespace WpfApp1
 {
+
+    public class Doctor
+    {
+
+    }
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
